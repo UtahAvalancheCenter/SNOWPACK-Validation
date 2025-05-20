@@ -33,8 +33,8 @@ Validation Scores:
 - Bulk: 0.55
 - Simple Score: 0.702
 
-Cost Density Matrix
+**Cost Density Matrix**
 ![Jan142025_CostDensityMatrix](https://github.com/user-attachments/assets/69d38bd8-01f5-45e5-991c-f78d217222f5)
 
-Alignment Plot (top-down alignment method)
+**Alignment Plot (top-down alignment method)**
 ![Jan142025_AlignmentPlot](https://github.com/user-attachments/assets/afac7a1e-0204-48b7-8458-154acd155119)
