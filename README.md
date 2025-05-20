@@ -4,6 +4,7 @@ Repository for a golden dataset of CAAML V6.0 files, standards of practice, and 
 - Air Temp - Apogee St300
 - Snow Depth - Campbell Snowvue
 - Soil Moist/temp - Stevens Hydraprobe Analog
+
 Variables included in a golden standard CAAML V6.0 manually submitted snow profile include:
 - Latitude and longitude
 - Elevation
