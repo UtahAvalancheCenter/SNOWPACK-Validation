@@ -33,7 +33,7 @@ Validation Scores:
 - Bulk: 0.55
 - Simple Score: 0.702
 
-Cost Density Matrix![Atwater Flat (S) 8,760-14-Jan](https://github.com/user-attachments/assets/7bf4ff4e-c02a-4dee-a73d-07a6b7e42d5a)
-
+Cost Density Matrix
+![Jan142025_CostDensityMatrix](https://github.com/user-attachments/assets/69d38bd8-01f5-45e5-991c-f78d217222f5)
 
 Alignment Plot (top-down alignment method)
