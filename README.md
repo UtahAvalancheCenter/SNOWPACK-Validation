@@ -19,3 +19,8 @@ Examples of golden standard CAAML V6.0 files can be downloaded from the followin
 - [January 17, 2025, submitted by Jacob Miller](https://snowpilot.org/node/70204)
 - [January 14, 2025, submitted by Dave Kelly](https://snowpilot.org/node/69903)
 - [December 23, 2024, submitted by Dave Kelly](https://snowpilot.org/node/68319)
+
+# Use Cases
+### January 14, 2025 (19:00 UTC)
+Observer: Dave Kelly
+Recent Weather: A winter storm moved into the region on January 10, 2025, dropping 1.4” SWE (14” snow) at the Atwater SP before exiting the area on January 12. Temperatures dropped steadily throughout the storm, reaching 0℉ on the morning of January 13. This was followed by two days of persistent cold weather, with temperatures remaining below 14℉. Moderate to strong northwest winds accompanied the storm's arrival (25 mph, gusts to 40 mph) before gradually decreasing as the system moved out. By the morning of January 14, northwest winds were blowing at 15 mph with gusts up to 25 mph.
