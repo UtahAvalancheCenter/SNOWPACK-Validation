@@ -20,6 +20,13 @@ Examples of golden standard CAAML V6.0 files can be downloaded from the followin
 - [January 14, 2025, submitted by Dave Kelly](https://snowpilot.org/node/69903)
 - [December 23, 2024, submitted by Dave Kelly](https://snowpilot.org/node/68319)
 
+### Validation Standards of Practice
+*See DTW-Atwater-Validation-Code.R for code*
+1. Calculate the dynamic time warping alignment of the modeled and reference snow profiles.
+2. For reference profiles at the Atwater Study Plot, an alignment should be used without re-scaling the profiles to match snow height. Use the Herla et al., 2021 similarity approach, and check for global alignment methods.
+3. Plot the local cost density matrix and alignment plot.
+4. Calculate the similarity between the two profiles.
+
 # Use Cases
 ### January 14, 2025 (19:00 UTC)
 Observer: Dave Kelly
