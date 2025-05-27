@@ -27,11 +27,11 @@ To validate SNOWPACK with manually referenced snow profiles, we utilize the R pa
 
 # Use Cases
 ### January 14, 2025 (19:00 UTC)
-Observer: Dave Kelly
+**Observer:** Dave Kelly
 
-Recent Weather: A winter storm moved into the region on January 10, 2025, dropping 1.4” SWE (14” snow) at the Atwater SP before exiting the area on January 12. Temperatures dropped steadily throughout the storm, reaching 0℉ on the morning of January 13. This was followed by two days of persistent cold weather, with temperatures remaining below 14℉. Moderate to strong northwest winds accompanied the storm's arrival (25 mph, gusts to 40 mph) before gradually decreasing as the system moved out. By the morning of January 14, northwest winds were blowing at 15 mph with gusts up to 25 mph.
+**Recent Weather:** A winter storm moved into the region on January 10, 2025, dropping 1.4” SWE (14” snow) at the Atwater SP before exiting the area on January 12. Temperatures dropped steadily throughout the storm, reaching 0℉ on the morning of January 13. This was followed by two days of persistent cold weather, with temperatures remaining below 14℉. Moderate to strong northwest winds accompanied the storm's arrival (25 mph, gusts to 40 mph) before gradually decreasing as the system moved out. By the morning of January 14, northwest winds were blowing at 15 mph with gusts up to 25 mph.
 
-Validation Scores:
+**Validation Scores:**
 - Weak Layers: NaN
 - Crusts: 0.70
 - Precipitation Particles: 0.86
@@ -43,3 +43,21 @@ Validation Scores:
 
 **Alignment Plot (top-down alignment method) - January 14, 2025**
 ![Jan142025_AlignmentPlot](https://github.com/user-attachments/assets/afac7a1e-0204-48b7-8458-154acd155119)
+
+### December 23, 2024 (21:40 UTC)
+**Observer:** Dave Kelly
+
+**Recent Weather:** After ten days of no precipitation and above freezing daytime highs, 1" of snow (0.1" water) finally fell at Alta, UT, on the morning of December 23, 2024. Winds from the previous five days were calm from the west-northwest and were blowing below 10 mph on the morning of December 23. Unseasonably warm temperatures entered the region on December 17, with daytime highs in the mid to upper 30s Fahrenheit and lows in the mid to upper 20s. The temperature at the Atwater SP on the morning of December 23 was 29 degrees Fahrenheit.
+
+**Validation Scores:**
+- Weak Layers: NaN
+- Custs: 0.63
+- Precipitation Particles: 0.20
+- Bulk: 0.49
+- Simple Score: 0.44
+
+**Cost Density Matrix - December 23, 2024**
+![Dec232024_CostDensityMatrix](https://github.com/user-attachments/assets/47f471aa-e80f-4fa4-9526-10a8902517ee)
+
+**Alignment Plot (Global alignment) - December 23, 2024**
+![Dec232024_AlignmentPlot](https://github.com/user-attachments/assets/961b77cb-6efc-4156-8ba9-8f41e7091c1f)
