@@ -22,10 +22,7 @@ Examples of golden standard CAAML V6.0 files can be downloaded from the followin
 
 ### Validation Standards of Practice
 *See DTW-Atwater-Validation-Code.R for code*
-1. Calculate the dynamic time warping alignment of the modeled and reference snow profiles.
-2. For reference profiles at the Atwater Study Plot, an alignment should be used without re-scaling the profiles to match snow height. Use the Herla et al., 2021 similarity approach, and check for global alignment methods.
-3. Plot the local cost density matrix and alignment plot.
-4. Calculate the similarity between the two profiles.
+To validate SNOWPACK with manually referenced snow profiles, we utilize the R package "sarp.snowprofile.alignment" created by Herla, Haegeli, Horton, and Billecocq. This package aligns snow profiles by matching their individual layers based on Dynamic Time Warping (DTW). To run a validation, one must first isolate the SNOWPACK PRO file to the date and time of the reference snowprofile. Once the correct date and time have been set, dynamic time warping can be performed using the dtwSP tool. This tool has many input arguments that can be modified. Here we suggest inputs for reference snow profiles taken directly at the study plot used to run SNOWPACK. First, we recommend not rescaling the query snow height to match the reference snow height (rescale2refHS = FALSE). Additionally, we recommend checking if a global alignment performs better than an open-end alignment (checkGlobalAlignment = TRUE). Finally, we suggest using the simType Herla et al. 2021. If validating SNOWPACK with a reference snow profile taken outside of the study plot, we recommend rescaling the query snow height to match the reference snow height (rescale2refHS = TRUE).
 
 # Use Cases
 ### January 14, 2025 (19:00 UTC)
