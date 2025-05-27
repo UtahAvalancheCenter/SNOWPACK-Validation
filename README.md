@@ -44,6 +44,7 @@ To validate SNOWPACK with manually referenced snow profiles, we utilize the R pa
 **Alignment Plot (top-down alignment method) - January 14, 2025**
 ![Jan142025_AlignmentPlot](https://github.com/user-attachments/assets/afac7a1e-0204-48b7-8458-154acd155119)
 
+---
 ### December 23, 2024 (21:40 UTC)
 **Observer:** Dave Kelly
 
