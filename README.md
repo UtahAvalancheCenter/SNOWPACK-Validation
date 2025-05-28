@@ -15,10 +15,7 @@ Variables included in a golden standard CAAML V6.0 manually submitted snow profi
 - Temperature profile
 - Full-depth layer identification complete with layer hardness, grain identification, and grain size. Each layer must only contain a single hardness classification.
 
-Examples of golden standard CAAML V6.0 files can be downloaded from the following links:
-- [January 17, 2025, submitted by Jacob Miller](https://snowpilot.org/node/70204)
-- [January 14, 2025, submitted by Dave Kelly](https://snowpilot.org/node/69903)
-- [December 23, 2024, submitted by Dave Kelly](https://snowpilot.org/node/68319)
+Examples of golden standard CAAML V6.0 files can be found in the folder **CAAMLv6-Files**
 
 ### Validation Standards of Practice
 *See DTW-Atwater-Validation-Code.R for code*
