@@ -80,3 +80,23 @@ To validate SNOWPACK with manually referenced snow profiles, we utilize the R pa
 
 **Alignment Plot (global alignment) - December 23, 2024**
 ![Dec232024_AlignmentPlot](https://github.com/user-attachments/assets/961b77cb-6efc-4156-8ba9-8f41e7091c1f)
+
+---
+
+### January 26, 2024 (18:00 UTC)
+**Observer:** Otto Lang
+
+**Recent Weather:** A quick-moving storm dropped 1-3" of snow throughout January 25, 2024. On the morning of January 26, temperatures were in the upper teens Fahrenheit, and light northwest winds were blowing less than 10 mph.
+
+**Validation Scores:**
+- Weak Layers: 0.3
+- Custs: 0.22
+- Precipitation Particles: 0.77
+- Bulk: 0.61
+- Simple Score: 0.475
+
+**Cost Density Matrix - January 26, 2024**
+![20240126_Atwater_CostDensity](https://github.com/user-attachments/assets/edc1a2b3-05fa-4b10-97b1-9bd543a36e66)
+
+**Alignment Plot (bottom-up) - January 26, 2024**
+![20240126_Atwater_Alignment](https://github.com/user-attachments/assets/3d4899dd-7b6a-4af9-a6f3-a2516ae81c13)
